@@ -4,4 +4,5 @@
   pandas cheat sheet practice
 * 4/19 Numpy  
 http://taewan.kim/post/numpy_cheat_sheet/   
-Numpy Basic  
+Numpy Basic    
+* Matplotlib (soon)
